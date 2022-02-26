@@ -1,0 +1,32 @@
+[
+  {
+    "Nome": "La Vigna Srl",
+    "IndirizzoCompleto": "Via Roma 12, Padova",
+    "PartitaIva": "00146274525",
+    "Presidente": "Luigi Lovato"
+  },
+  {
+    "Nome": "Fergros",
+    "IndirizzoCompleto": "Corso Garibaldi, Mestre",
+    "PartitaIva": "00485916478",
+    "Presidente": "Alessandro Pala"
+  },
+  {
+    "Nome": "FNP Progettazione",
+    "IndirizzoCompleto": "Via Castello 8, Venezia",
+    "PartitaIva": "00417951368",
+    "Presidente": "Marco Fornasa"
+  },
+  {
+    "Nome": "Protein Ice Cream",
+    "IndirizzoCompleto": "Via Trissino, 25, Firenze",
+    "PartitaIva": "00254976388",
+    "Presidente": "Pietro Bruttomesso"
+  },
+  {
+    "Nome": "Bakery",
+    "IndirizzoCompleto": "Via Alfieri, 23, Genova",
+    "PartitaIva": "00687513095",
+    "Presidente": "Luigi Matteotti"
+  }
+]

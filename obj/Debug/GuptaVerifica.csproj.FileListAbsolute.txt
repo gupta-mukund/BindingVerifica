@@ -1,0 +1,14 @@
+C:\Users\6190006\Desktop\GuptaVerifica\bin\Debug\GuptaVerifica.exe.config
+C:\Users\6190006\Desktop\GuptaVerifica\bin\Debug\GuptaVerifica.exe
+C:\Users\6190006\Desktop\GuptaVerifica\bin\Debug\GuptaVerifica.pdb
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.csproj.AssemblyReference.cache
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.Properties.Resources.resources
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.csproj.GenerateResource.cache
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.csproj.CoreCompileInputs.cache
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.exe
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.pdb
+C:\Users\6190006\Desktop\GuptaVerifica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\6190006\Desktop\GuptaVerifica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.Form1.resources
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.csproj.CopyComplete
+C:\Users\6190006\Desktop\GuptaVerifica\obj\Debug\GuptaVerifica.Form2.resources
